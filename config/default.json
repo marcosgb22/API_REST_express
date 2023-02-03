@@ -1,0 +1,6 @@
+{
+    "nombre" :  "Api Rest de express",
+    "configDB":{
+        "host": "default-db-server"
+}
+}
